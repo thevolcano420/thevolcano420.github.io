@@ -9,10 +9,16 @@ button {
     position: absolute;
     left: 6%;
     bottom: 80%;
+    height: 30px;
 }
 
 h2 {
     position: absolute;
     left: 5%;
     font-size: 300%;
+}
+
+#button_2 {
+    position: absolute;
+    top: 22%;
 }
