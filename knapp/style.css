@@ -1,0 +1,63 @@
+body {
+    background-image: url(https://i.redd.it/yrw5o4098j7a1.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.button {
+    padding: 20px;
+    border-radius: 10px;
+    border-color: rgb(234, 132, 24);
+    margin: 10px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1:hover {
+    background-image: url(https://thumbs.gfycat.com/AbandonedAnguishedCatfish-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    color: white;
+}
+
+.button2:hover {
+    background-image: url(https://thumbs.gfycat.com/AbandonedAnguishedCatfish-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    color: white;
+}
+
+
+/* kommentar i css skrivs såhär: */
+h1 {
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 35.5%;
+    font-size: 350%;
+    color: rgb(234, 132, 24);
+}
+
+.texttal {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 50.5%;
+    color: rgb(237, 237, 237);
+}
+
+.knappar {
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 42.3%;
+}
+
+@media only screen and (max-width: 400px) {
+    body {
+        background-color: rgb(164, 94, 230);
+    }
+}
