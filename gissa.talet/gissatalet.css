@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/08/4b/da/084bdacadcb0eb6f01ec01072208a4fb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 300%;
+    /*font-family: 'Fasthand', cursive;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 6em;
+}
+.centerdiv {
+    margin: auto;
+    width: 260px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 25px;
+    height: 100px;
+  }
+  .centerdiv2 {
+    margin: auto;
+    width: 260px;
+    padding: 20px;   
+  }
+  b{
+    font-size: 1em;
+  }
+  button{
+    background-color: white;
+    border-radius: 10px;
+    padding: 6px;
+  }
+  p{
+    font-size: 1em;
+  }
+  .reload_butt{
+    position: absolute;
+    left: 48%;
+  }

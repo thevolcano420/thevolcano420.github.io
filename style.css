@@ -1,4 +1,18 @@
 body {
-    background-color: black;
+    background-image: url(https://i.pinimg.com/564x/97/35/39/973539c15810f0fa920a7b8762b0244e.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
     color: white;
+}
+
+button {
+    position: absolute;
+    left: 6%;
+    bottom: 80%;
+}
+
+h2 {
+    position: absolute;
+    left: 5%;
+    font-size: 300%;
 }
